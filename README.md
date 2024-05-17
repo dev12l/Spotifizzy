@@ -1,0 +1,2 @@
+# Spotifizzy
+Spotify Partner App
